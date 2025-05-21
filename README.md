@@ -59,9 +59,3 @@ Le projet implémente la vectorisation TF-IDF pour le traitement du texte et des
 
 ## Licence
 Ce projet est open source et disponible sous la licence MIT.
-
-## Contribution
-Les contributions sont les bienvenues ! N'hésitez pas à soumettre une Pull Request.
-
-## Contact
-Pour toute question ou suggestion, veuillez ouvrir une issue dans le dépôt GitHub ou contacter directement l'auteur. 
