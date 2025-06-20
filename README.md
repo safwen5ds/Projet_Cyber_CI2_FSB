@@ -3,6 +3,13 @@
 ## Aperçu
 Ce projet implémente une solution basée sur l'apprentissage automatique pour détecter les emails de phishing. Il utilise des techniques de traitement du langage naturel et d'apprentissage automatique pour analyser le contenu des emails et identifier les tentatives potentielles de phishing.
 
+## 🔗 Modelbit API Endpoint
+
+Below is a live example of the endpoint you can call.
+
+<!-- Screenshot -->
+![Modelbit endpoint screenshot](modelbit_endpoint.png)
+
 ## Auteur
 - **Safwen Gharbi**
 - GitHub: [safwen5ds](https://github.com/safwen5ds)
