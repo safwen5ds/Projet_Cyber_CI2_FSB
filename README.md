@@ -8,7 +8,7 @@ Ce projet implémente une solution basée sur l'apprentissage automatique pour d
 Below is a live example of the endpoint you can call.
 
 <!-- Screenshot -->
-![Modelbit endpoint screenshot](modelbit_endpoint.png)
+![Modelbit endpoint screenshot](Screenshot 2025-06-20 233841.png)
 
 ## Auteur
 - **Safwen Gharbi**
